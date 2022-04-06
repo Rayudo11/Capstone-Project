@@ -1,0 +1,19 @@
+{
+  "name": "capstone-project",
+  "version": "1.0.0",
+  "description": "My Project consist of a Travel Guide page where clients will be able to book travel consultations for their next destination with the option of choosing one of three travel packages the company offers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayudo11/Capstone-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rayudo11/Capstone-Project/issues"
+  },
+  "homepage": "https://github.com/Rayudo11/Capstone-Project#readme"
+}
