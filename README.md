@@ -60,6 +60,27 @@ SeedData.sequel is the sql command that will go ahead and provide the API with t
 
 
 
+Controllers:
+
+    getAllClients
+    getClientById
+    createClient
+    updateClientById
+    deleteClientByName
+
+
+Routers:
+
+router.get('/', usersController.getAllClients)
+
+router.get('/:id', usersController.getClientById)
+
+router.post('/', usersController.createClient)
+
+router.put('/:id', usersController.updateClientById)
+
+router.delete('/:Client', usersController.deleteClientByName)
+
 
 
 
